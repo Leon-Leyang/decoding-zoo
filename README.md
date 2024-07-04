@@ -4,7 +4,7 @@
 
 (Speech: 🗣️, Vision: 👁️)
 
-🗣️ [2024-07-04]🍦  https://www.nature.com/articles/s41586-024-07643-2 [[Paper](https://www.nature.com/articles/s41586-024-07643-2)]
+🗣️ [2024-07-04]🍦  Semantic encoding during language comprehension at single-cell resolution [[Paper](https://www.nature.com/articles/s41586-024-07643-2)]
 
 
 
