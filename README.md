@@ -4,6 +4,10 @@
 
 (Speech: 🗣️, Vision: 👁️)
 
+🗣️ [2024-07-04]🍦  https://www.nature.com/articles/s41586-024-07643-2 [[Paper](https://www.nature.com/articles/s41586-024-07643-2)]
+
+
+
 
 
 👁️ [2024-06-13] ☀️ Decoding movie content from neuronal population activity in the human medial temporal lobe [[Paper](https://www.biorxiv.org/content/10.1101/2024.06.13.598791v1.full.pdf)]
